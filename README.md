@@ -1,2 +1,3 @@
-Vladimir Keller
-0546812643
+## For running the app write: 
+* npm install
+* npm start
